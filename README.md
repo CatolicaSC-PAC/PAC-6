@@ -36,10 +36,11 @@ As analise que a ferramenta deve suportar, não sendo uma lista exaustiva, conte
 # 📌 Perspectiva de Avaliação
 
 A avaliação do trabalho será baseada na **entrega progressiva das funcionalidades** e na **demonstração prática** do CLI.  
-
-- **Cada equipe deve entregar pelo menos um item de cada etapa** (N1, N2 e N3).  
+ 
+- Cada dupla deve selecionar uma linguagem para o qual o CLI será focado. 
 - **Para N1 e N2**, os alunos devem apresentar **exemplos de uso do CLI**, demonstrando suas funcionalidades.  
-- **Para N3**, o projeto deve estar **integrado a um pipeline de CI/CD** (sugestão: utilizar **GitHub Actions**).  
+- **Para N3**, o projeto deve estar **integrado a um pipeline de CI/CD** (sugestão: utilizar **GitHub Actions**).
+
 
 ---
 
