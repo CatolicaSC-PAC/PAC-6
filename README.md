@@ -1,4 +1,4 @@
-# 📌 Projeto Aplicado ao Curso (PAC) - 6ª Fase  
+# 📌 PAC - 6ª Fase  
 
 ## 📖 Sobre a Disciplina  
 O **PAC da 6ª fase** é uma disciplina prática onde os alunos desenvolvem um projeto de software aplicando conceitos de:  
