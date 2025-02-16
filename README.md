@@ -48,16 +48,16 @@ A avaliação do trabalho será baseada na **entrega progressiva das funcionalid
 Cada nível da avaliação segue a seguinte estrutura:  
 
 ### 🟢 N1 (Primeira Entrega)  
-- **Nota 6.0:** Entregar pelo menos **1 funcionalidade** implementada.  
-- **Nota 8.0:** Entregar pelo menos **2 funcionalidades** implementadas.  
-- **Nota 10.0:** Entregar **todas as funcionalidades** previstas para N1.  
+- **Nota 6.0:** Implementar **1 funcionalidade**.  
+- **Nota 8.0:** Implementar **2 funcionalidades**.  
+- **Nota 10.0:** Implementar **todas as funcionalidades** previstas para N1.  
 
 ### 🟡 N2 (Segunda Entrega)  
-- **Nota 6.0:** Ter pelo menos **2 funcionalidades concluídas** (somando N1 e N2).  
-- **Nota 7.0:** Ter pelo menos **3 funcionalidades concluídas** (somando N1 e N2).  
-- **Nota 8.0:** Ter pelo menos **4 funcionalidades concluídas** (somando N1 e N2).  
-- **Nota 9.0:** Ter pelo menos **5 funcionalidades concluídas**.  
-- **Nota 10.0:** Entregar **todas as funcionalidades planejadas** para N1 e N2.  
+- **Nota 6.0:** Implementar **2 funcionalidades**.  
+- **Nota 7.0:** Implementar **3 funcionalidades**.  
+- **Nota 8.0:** Implementar **4 funcionalidades**.  
+- **Nota 9.0:** Implementar **5 funcionalidades**.  
+- **Nota 10.0:** Implementar **6 funcionalidades**. 
 
 ### 🔴 N3 (Terceira Entrega)  
 - **Nota 6.0:** Ter pelo menos **5 funcionalidades concluídas** (somando N1, N2 e N3).  
