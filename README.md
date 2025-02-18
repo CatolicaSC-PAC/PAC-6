@@ -10,7 +10,7 @@ O **PAC da 6ª fase** é uma disciplina prática onde os alunos desenvolvem um p
 Neste semestre, o desafio é criar uma **ferramenta CLI** que auxilie no ciclo de manutenção e qualidade de código.  
 
 ## 🎯 Objetivo do Projeto  
-Os alunos deverão, em duplas, desenvolver uma **ferramenta de análise de código**. 
+Os alunos deverão, em duplas ou em trios, desenvolver uma **ferramenta de análise de código**. 
 
 As analise que a ferramenta deve suportar, não sendo uma lista exaustiva, contempla:  
 
