@@ -66,7 +66,8 @@ Cada nível da avaliação segue a seguinte estrutura:
 - **Nota 7.0:** Ter pelo menos **6 funcionalidades concluídas** (somando N1, N2 e N3).  
 - **Nota 8.0:** Ter pelo menos **7 funcionalidades concluídas** (somando N1, N2 e N3).  
 - **Nota 9.0:** Ter pelo menos **8 funcionalidades concluídas** (somando N1, N2 e N3).  
-- **Nota 10.0:** Ter pelo menos **8 funcionalidades concluídas + 1 funcionalidade avançada**.  
+- **Nota 9.5:** Ter pelo menos **9 funcionalidades concluídas** (somando N1, N2 e N3).  
+- **Nota 10.0:** Ter pelo menos **8 funcionalidades concluídas, sendo 1 funcionalidade avançada**.  
 
 ---
 
