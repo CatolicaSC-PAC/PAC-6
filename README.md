@@ -1,4 +1,4 @@
-# 📌 PAC - 6ª Fase  
+# 📌 PAC - 6ª Fase  **DRAFT**
 
 ## 📖 Sobre a Disciplina  
 O **PAC da 6ª fase** é uma disciplina prática onde os alunos desenvolvem um projeto de software aplicando conceitos de:  
@@ -28,7 +28,8 @@ As analise que a ferramenta deve suportar, não sendo uma lista exaustiva, conte
 |  2.4 | **Número de Métodos Privados/Públicos**  | Mede a quantidade de métodos privados e públicos em uma classe. Ajuda a avaliar o nível de encapsulamento e modularidade do código. |
 |  3.1 | **Tamanho Médio das Funções** | Extensão da contagem de funções, somando as linhas de cada uma e dividindo pelo total. Ainda simples, pois usa análise estrutural básica. |
 |  3.2 | **Identificação de Código Duplicado** | Moderado, pois exige análise de trechos de código para encontrar padrões repetidos. Pode ser implementado comparando hashes de blocos de código. |
-|  3.3 | **Predição de Bugs com IA** | O mais complexo, pois envolve coleta de dados, treinamento de modelos de Machine Learning e análise de código baseada em padrões históricos. |
+|  3.3 | **Predição de Bugs com IA** | Submter trechos de código para uma API de LLM solicitando sugestões de melhoria, indicações de problemas e etc. |
+|  3.4 | **Análise Assintotica das Funções** | técnica usada para estudar o comportamento da complexidade de um algoritmo conforme o tamanho da entrada cresce. |
 |  A.1 | **Identificação de Código Morto** | Complexo, pois requer análise de fluxo de execução para detectar funções e classes não utilizadas. Pode exigir análise do Abstract Syntax Tree (AST). |
 |  A.2 | **Análise Ciclomática do Código** | Extremamente complexa, pois exige a construção de um grafo de fluxo de controle e cálculo da quantidade mínima de caminhos independentes, demandando análise profunda do código. |
 
