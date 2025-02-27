@@ -12,7 +12,14 @@ Neste semestre, o desafio é criar uma **ferramenta CLI** que auxilie no ciclo d
 ## 🎯 Objetivo do Projeto  
 Os alunos deverão, em duplas ou em trios, desenvolver uma **ferramenta de análise de código**. 
 
-As analise que a ferramenta deve suportar, não sendo uma lista exaustiva, contempla:  
+Alguns materiais de apoio:
+* [Line Interface Guidelines](https://clig.dev/) <<< excelente guia!
+* [Build a CLI with Node](https://dev.to/rushankhan1/build-a-cli-with-node-js-4jbi)
+* [Criando sua CLI com Node](https://medium.com/henriquekuwai/criando-sua-cli-com-node-js-d6dee7d03110)
+* [CLI in Python](https://trstringer.com/easy-and-nice-python-cli/)
+* [Creating A CLI In Golang ](https://dev.to/rinkiyakedad/creating-a-cli-in-golang-5abl)
+
+As análises que a ferramenta deve suportar, não sendo uma lista exaustiva, contempla:  
 
 
 ## 🔹 Ordem de Implementação  
