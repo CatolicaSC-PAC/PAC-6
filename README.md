@@ -1,6 +1,6 @@
-# 📌 PAC - 6ª Fase  **DRAFT**
+# PAC - 6ª Fase  **DRAFT**
 
-## 📖 Sobre a Disciplina  
+## Sobre a Disciplina  
 O **PAC da 6ª fase** é uma disciplina prática onde os alunos desenvolvem um projeto de software aplicando conceitos de:  
 - **Análise, Projeto e Construção Ágil**  
 - **Algoritmos Avançados**  
@@ -8,21 +8,26 @@ O **PAC da 6ª fase** é uma disciplina prática onde os alunos desenvolvem um p
 - **Manutenção e Melhoria de Software**  
 
 Neste semestre, o desafio é criar uma **ferramenta CLI** que auxilie no ciclo de manutenção e qualidade de código.  
+Os alunos deverão, individualmente, em duplas ou em trios, desenvolver uma **ferramenta CLI para análise de código**. 
 
-## 🎯 Objetivo do Projeto  
-Os alunos deverão, em duplas ou em trios, desenvolver uma **ferramenta de análise de código**. 
-
-Alguns materiais de apoio:
+### Materiais de Apoio:
 * [Line Interface Guidelines](https://clig.dev/) <<< excelente guia!
 * [Build a CLI with Node](https://dev.to/rushankhan1/build-a-cli-with-node-js-4jbi)
 * [Criando sua CLI com Node](https://medium.com/henriquekuwai/criando-sua-cli-com-node-js-d6dee7d03110)
 * [CLI in Python](https://trstringer.com/easy-and-nice-python-cli/)
 * [Creating A CLI In Golang ](https://dev.to/rinkiyakedad/creating-a-cli-in-golang-5abl)
 
-As análises que a ferramenta deve suportar, não sendo uma lista exaustiva, contempla:  
+## Estrutura do CLI
+O CLI deve contemplar:
+* Um comando/forma para ser instalado.
+* Um conjunto de análises, conforme listado abaixo.
+* Um Help acessível a partir da ferramenta (ex.: cli --help)
+* Um conjunto de testes unitários para cada funcionalidade implementada
+* Uma documenação no git do projeto, detalhando o sua arquitetura e seu uso.
 
 
-## 🔹 Ordem de Implementação  
+## 🔹 Análises
+As análises que a ferramenta deve suportar, contempla:  
 
 | **#** |**Funcionalidade** | **Justificativa** | 
 |------|----------------------|------------------|
@@ -40,20 +45,12 @@ As análises que a ferramenta deve suportar, não sendo uma lista exaustiva, con
 |  A.1 | **Identificação de Código Morto** | Complexo, pois requer análise de fluxo de execução para detectar funções e classes não utilizadas. Pode exigir análise do Abstract Syntax Tree (AST). |
 |  A.2 | **Análise Ciclomática do Código** | Extremamente complexa, pois exige a construção de um grafo de fluxo de controle e cálculo da quantidade mínima de caminhos independentes, demandando análise profunda do código. |
 
+---
 
-# 📌 Perspectiva de Avaliação
+## 📌 Critérios de Avaliação 
 
 A avaliação do trabalho será baseada na **entrega progressiva das funcionalidades** e na **demonstração prática** do CLI.  
  
-- Cada dupla deve selecionar uma linguagem para o qual o CLI será focado. 
-- **Para N1 e N2**, os alunos devem apresentar **exemplos de uso do CLI**, demonstrando suas funcionalidades.  
-- **Para N3**, o projeto deve estar **integrado a um pipeline de CI/CD** (sugestão: utilizar **GitHub Actions**).
-
-
----
-
-## 📌 Critérios de Avaliação  
-
 Cada nível da avaliação segue a seguinte estrutura:  
 
 ### 🟢 N1 (Primeira Entrega)  
@@ -76,18 +73,6 @@ Cada nível da avaliação segue a seguinte estrutura:
 - **Nota 9.5:** Ter pelo menos **9 funcionalidades concluídas** (somando N1, N2 e N3).  
 - **Nota 10.0:** Ter pelo menos **8 funcionalidades concluídas, sendo 1 funcionalidade avançada**.  
 
----
-
-## 📌 Observações Finais  
-
-- Funcionalidades avançadas incluem **predição de bugs com IA, análise ciclomatica ou qualquer outra métrica de alto nível**.  
-- A documentação e a qualidade do código também serão consideradas na avaliação.  
-- Projetos com **baixa qualidade de código ou sem funcionamento adequado podem perder pontuação**, mesmo que tenham o número mínimo de funcionalidades entregues.  
-
-📌 *Recomenda-se que as equipes adotem boas práticas desde o início e realizem testes para validar suas implementações.* 🚀  
-
-
-
 
 ## 🏗️ Tecnologias Sugeridas  
 - **Linguagem:** Python, Java, JavaScript, Go ou .Net  
@@ -99,7 +84,13 @@ Cada nível da avaliação segue a seguinte estrutura:
 ## 📅 Cronograma de Entregas  
 | Entrega | Descrição | Data |
 |---------|------------|------|
-| **N1** | CLI básico para análise de código | 20/03/2025 |
-| **N2** | Cli avançado para analise de código | 15/05/2025 |
-| **N3** | Integração com IA para suporte a análise e pipelines de CI/CD | 26/06/2025 |
+| **N1** | CLI básico para análise de código + help + teste unitários | 20/03/2025 |
+| **N2** | N1 + Validações da N2 + pipeline de build | 15/05/2025 |
+| **N3** | N2 + Integração com IA para suporte a análise + Permitir o uso em CI/CD de projetos de projetos na linguagem | 26/06/2025 |
 
+
+## Informações Complementares
+ 
+- A documentação e a qualidade do código também serão consideradas na avaliação.  
+- Projetos com **baixa qualidade de código ou sem funcionamento adequado podem perder pontuação**, mesmo que tenham o número mínimo de funcionalidades entregues.  
+- Recomenda-se que as equipes adotem boas práticas desde o início e realizem testes para validar suas implementações. 
